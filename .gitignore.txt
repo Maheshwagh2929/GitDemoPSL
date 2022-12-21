@@ -1,3 +1,24 @@
 *.class
 *.jar
 unittest*
+#Directories#
+*/build/
+*/bin
+#OS Files#
+*.DS_Store
+#Package Files#
+*.war
+*.ear
+#WINDOS Images files Cache#
+*Thumbs.db
+*.svn
+#Eclipse#
+*.project
+*.metadata
+*bin/**
+*tmp/**
+*bin/**
+*.tmp
+*local.properties
+*.settings/
+*.loadpath
