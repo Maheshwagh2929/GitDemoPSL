@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 1 File 2 text has been added Date 12/21/2022
 2
 3 In Line 3 text added 12/21/2022
 4
+=======
+>>>>>>> parent of 55bacaf (File 2 Text added)
