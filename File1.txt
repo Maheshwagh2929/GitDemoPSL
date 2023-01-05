@@ -1,1 +1,6 @@
 Welcome to 1st day of GIT session
+git Function for add()
+{
+ 	int a+b;
+	return int;
+}
