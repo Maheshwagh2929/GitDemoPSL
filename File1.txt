@@ -1,9 +1,9 @@
-Welcome to 1st day of GIT session
-git Function for add()
+Welcome == to 1st day of GIT session
+git ==Function for add()
 {
- 	int a+b;
-	return int;
-	//Fix CR 1 in diff barch
+ 	int a+b;==
+	return int;==
+	//Fix CR 1 in diff barch==
 
 	//To do something more fix bug 456
 }
